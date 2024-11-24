@@ -34,23 +34,23 @@
 :arrow_forward: About - About this Project
 
 1 Home Page - Dashboard overview\
-![defi_DexSwap](https://github.com/SabeloMkhwanzi/dex-dashboard-covalent-dapp/blob/main/public/DEX-Analytics-Template-SabeloMkhwanzi-dashboard1.jpg)
+![defi_DexSwap](https://github.com/secret-glimmer/dex-dashboard-covalent-dapp/blob/main/public/DEX-Analytics-Template-SabeloMkhwanzi-dashboard1.jpg)
 
 
 2 Pool - Pools selection with the list of dex\
-![defi_DexSwap](https://github.com/SabeloMkhwanzi/dex-dashboard-covalent-dapp/blob/main/public/DEX-Analytics-Template-SabeloMkhwanzi.jpg)
+![defi_DexSwap](https://github.com/secret-glimmer/dex-dashboard-covalent-dapp/blob/main/public/DEX-Analytics-Template-SabeloMkhwanzi.jpg)
 
 
 3 Token - Tokens selection with the list of dex\
-![defi_DexSwap](https://github.com/SabeloMkhwanzi/dex-dashboard-covalent-dapp/blob/main/public/DEX-Analytics-Template-SabeloMkhwanzi-tokens1.jpg)
+![defi_DexSwap](https://github.com/secret-glimmer/dex-dashboard-covalent-dapp/blob/main/public/DEX-Analytics-Template-SabeloMkhwanzi-tokens1.jpg)
 
 
 4 Exchanges - Dashboard overview\
-![defi_DexSwap](https://github.com/SabeloMkhwanzi/dex-dashboard-covalent-dapp/blob/main/public/DEX-Analytics-Template-SabeloMkhwanzi-dash.jpg)
+![defi_DexSwap](https://github.com/secret-glimmer/dex-dashboard-covalent-dapp/blob/main/public/DEX-Analytics-Template-SabeloMkhwanzi-dash.jpg)
 
 
 5 About - About this Project
-![defi_DexSwap](https://github.com/SabeloMkhwanzi/dex-dashboard-covalent-dapp/blob/main/public/DEX-Analytics-Template-SabeloMkhwanzi-about.jpg)
+![defi_DexSwap](https://github.com/secret-glimmer/dex-dashboard-covalent-dapp/blob/main/public/DEX-Analytics-Template-SabeloMkhwanzi-about.jpg)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8b0c16d5-5d47-4288-bf7b-5a08a29a8ee0/deploy-status)](https://app.netlify.com/sites/dexdashdapp/deploys)
 
@@ -96,7 +96,7 @@ The Covalent API empowers an army of developers, analysts and 'data nerds' to BU
 1. clone the repo with the following git command:
 
 ```bash
-git clone https://github.com/SabeloMkhwanzi/eddalytics
+git clone https://github.com/secret-glimmer/eddalytics
 ```
 
 2. open a terminal in the root directory of the project and run:
